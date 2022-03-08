@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdulrahmansadek</h1>
 <h3 align="center">A Full Stack Developer</h3>
-- 📫 How to reach me **abdulrahman.sadek@icloud.com**
+📫 How to reach me **abdulrahman.sadek@icloud.com
 
 <p>i'am Abdulrahman Sadek from syria, i live in Amsterdam, i'm curently a student at HackYourFuture</p>
 <h3 align="left">Connect with me:</h3>
